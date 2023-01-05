@@ -1,0 +1,22 @@
+{
+  "barang": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "stock": "2",
+      "desk": "lorem ipsum"
+    },
+    {
+      "id": 2,
+      "name": "Alex Picker",
+      "stock": "3",
+      "desk": "lorem ipsum"
+    },
+    {
+      "id": "6c5a74fe3ac",
+      "name": "Muhammad Al Biruni",
+      "stock": "2",
+      "desk": "lorem ipsum"
+    }
+  ]
+}
