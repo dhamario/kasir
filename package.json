@@ -1,6 +1,7 @@
 {
   "name": "contact-app",
   "version": "0.1.0",
+  "homepage": "https://dhamario.github.io/kasir/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
